@@ -22,7 +22,7 @@
   <tr>
     <td width="62%" valign="top">
 
-I am an incoming **Ph.D. student in Civil Engineering (Transportation)** at the **University at Buffalo (SUNY)**, joining the **TRAVL Lab in Fall 2026**.
+I am an **Ph.D. student in Civil Engineering (Transportation)** at the **University at Buffalo (SUNY)**, joining the **TRAVL Lab in Fall 2026**.
 
 My research sits where **Computer Vision**, **Human Factors**, and **VR-based behavioral experiments** meet — building immersive testbeds and data-driven models that make streets safer for the people who walk them.
 
